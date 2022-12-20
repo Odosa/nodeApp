@@ -1,0 +1,14 @@
+{
+  "name": "new-app",
+  "version": "1.0.0",
+  "description": "\"Building a notebook\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Odosa\"",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
